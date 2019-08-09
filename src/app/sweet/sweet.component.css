@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Mitr&display=swap');
+
 .title_sweet {
   margin-top: 2%;
   margin-left: 5%;
@@ -11,9 +13,8 @@
 /* flip card */
 .flip-card {
   background-color: transparent;
-  width: 300px;
-  height: 200px;
-  border: 1px solid #f1f1f1;
+  width:250px;
+  height:200px;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 
@@ -54,8 +55,21 @@
 }
 
 .img_sweet {
-  width:400px;
-  height:300px;
+  width:250px;
+  height:200px;
+}
+
+.back_card {
+  padding-top: 10%;
+}
+
+.menu_name {
+  font-family: 'Mitr', sans-serif;
+}
+
+.prince_font {
+  font-size: 20px;
+  font-family: 'Mitr', sans-serif;
 }
 
 @media (max-width:1000px){

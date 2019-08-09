@@ -1,5 +1,5 @@
 .header {
-    height: 100px;
+    height: 70px;
     background-color: blue;
 }
 
@@ -9,6 +9,8 @@
 }
 
 .footer {
-    height: 100px;
+    height: 70px;
     background-color: black;
+    bottom: 0px;
+    position: relative;
 }

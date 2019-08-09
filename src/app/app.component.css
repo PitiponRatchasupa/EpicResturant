@@ -1,6 +1,5 @@
 .header {
     height: 70px;
-    background-color: blue;
 }
 
 .body {
@@ -10,7 +9,6 @@
 
 .footer {
     height: 70px;
-    background-color: black;
     bottom: 0px;
     position: relative;
 }

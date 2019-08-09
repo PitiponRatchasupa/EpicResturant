@@ -3,7 +3,9 @@
 } */
 
 .body {
-    background-color: aqua;
+    background-image: url('../assets/images/annie-spratt-tKpA64QrccM-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 80%;
 }
 

@@ -8,6 +8,9 @@ h2 {
   text-shadow: 2px 2px #3B5998
 }
 
+blockquote {
+  color: white;
+}
 .fa {
   padding: 10px;
   font-size: 30px;

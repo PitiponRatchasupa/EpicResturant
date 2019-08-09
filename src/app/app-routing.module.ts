@@ -4,6 +4,7 @@ import { HomeComponent } from './home/home.component';
 import { DrinkComponent } from './drink/drink.component';
 import { MainComponent } from './main/main.component';
 import { SweetComponent } from './sweet/sweet.component';
+import { AboutComponent } from './about/about.component'
 
 
 

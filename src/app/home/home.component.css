@@ -1,3 +1,8 @@
+.contact {
+  position: relative;
+  left: 80%;
+}
+
 h1 {
   color: blue;
   text-shadow: 3px 1px red;
@@ -8,6 +13,9 @@ h2 {
   text-shadow: 2px 2px #3B5998
 }
 
+blockquote {
+  color: white;
+}
 .fa {
   padding: 10px;
   font-size: 30px;
@@ -44,5 +52,10 @@ h2 {
 .fa-pinterest {
   background: #cb2027;
   color: white;
+}
+
+.story {
+  position: relative;
+  left: 30%;
 }
 

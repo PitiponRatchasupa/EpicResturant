@@ -1,3 +1,8 @@
+.contact {
+  position: relative;
+  left: 80%;
+}
+
 h1 {
   color: blue;
   text-shadow: 3px 1px red;
@@ -47,5 +52,10 @@ blockquote {
 .fa-pinterest {
   background: #cb2027;
   color: white;
+}
+
+.story {
+  position: relative;
+  left: 30%;
 }
 

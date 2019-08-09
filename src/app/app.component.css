@@ -1,0 +1,14 @@
+.header {
+    height: 100px;
+    background-color: blue;
+}
+
+.body {
+    background-color: aqua;
+    height: 80%;
+}
+
+.footer {
+    height: 100px;
+    background-color: black;
+}
